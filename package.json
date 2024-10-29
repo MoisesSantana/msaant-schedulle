@@ -10,8 +10,9 @@
     "lint:fix": "next lint --fix"
   },
   "dependencies": {
-    "@moiseizin/react": "^3.0.0",
+    "@moiseizin/react": "^3.3.0",
     "next": "14.2.16",
+    "phosphor-react": "^1.4.1",
     "react": "^18",
     "react-dom": "^18"
   },
